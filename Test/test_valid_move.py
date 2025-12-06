@@ -1,4 +1,4 @@
-from Code.Sudoku import SudokuSolver
+from Main.Sudoku import SudokuSolver
 
 
 example_board = [

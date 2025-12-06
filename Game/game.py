@@ -1,4 +1,4 @@
-from Sudoku import SudokuSolver
+from Main.Sudoku import SudokuSolver
 
 example_board = [
     [5, 3, 0, 0, 7, 0, 0, 0, 0],
